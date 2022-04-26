@@ -4,7 +4,7 @@
  * File: lists.h
  *
  * Desc: Header file containing prototypes and definitions for all functions
- *       and types written in the 0x12-more_singly_linked_lisuct listint_s - singly linked list
+ * and types written in the 0x12-more_singly_linked_lisuct listint_s - singly linked list
  * @n: integer
  * @next: points to the next node
  *
@@ -42,7 +42,7 @@ listint_t *find_listint_loop(listint_t *head);
  * File: lists.h
  *
  * Desc: Header file containing prototypes and definitions for all functions
- *       and types written in the 0x12-more_singly_linked_lists directory.
+ * and types written in the 0x12-more_singly_linked_lists directory.
  */
 #include <stdlib.h>
 /**
